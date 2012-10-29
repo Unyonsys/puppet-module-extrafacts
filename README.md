@@ -17,6 +17,11 @@ Description
     Original code gotten from somewhere on the web but can't
     remember where...
 
+### pkg
+    Returns a list of all installed packages on the system with
+    their current version
+    source: git://github.com/ody/ody-pkginventory.git
+
 Usage
 -----
 
